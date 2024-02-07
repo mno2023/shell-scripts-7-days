@@ -24,6 +24,4 @@ echo "***** Uptime Details : *****"
 uptime -p
 echo
 
-
-echo 
-#top | head -10
+echo "End of the script"

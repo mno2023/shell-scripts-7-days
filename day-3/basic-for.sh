@@ -17,3 +17,5 @@ for item in 1 2 3 4 5
 do
 	echo "Welcome to Bash Shell $item time, for loop."
 done
+
+echo "End of the script"

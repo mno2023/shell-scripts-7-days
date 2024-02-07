@@ -17,3 +17,4 @@ else
 	echo "*** Given number: $num is a negative Number *****"
 fi
 
+echo "End of the script"

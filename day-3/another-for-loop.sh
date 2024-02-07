@@ -18,3 +18,4 @@ do
 	fi
 	echo "This is $num iteration"
 done
+echo "End of the script"

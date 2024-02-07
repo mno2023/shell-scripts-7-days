@@ -21,3 +21,4 @@ else
 	echo "****** Command failed *******"
 fi
 
+echo "End of the script"
