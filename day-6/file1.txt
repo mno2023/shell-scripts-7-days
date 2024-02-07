@@ -1,0 +1,5 @@
+line1 contains four words.
+here is line2.
+this is line3 with six words.
+here comes line4 with joy.
+now this is line5 with more fun.
